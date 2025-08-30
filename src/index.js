@@ -15,3 +15,34 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// * {
+//   margin: 0;
+//   padding: 0;
+//   box-sizing: border-box;
+// }
+// body {
+//   width: 100vw;
+//   height: 100vh;
+// }
+// html,
+// body,
+// #root {
+//   height: 100%;
+// }
